@@ -1,2 +1,2 @@
-# Aula-Git-e-Github-0.1-
+# Aula-Git-e-Github-VsCode
 Esse teste é para uso de aprendizado "Versionamento pelo VsCode"
